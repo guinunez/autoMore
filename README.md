@@ -1,0 +1,4 @@
+autoMore
+========
+
+jQuery plugin
